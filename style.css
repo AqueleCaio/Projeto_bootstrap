@@ -58,3 +58,7 @@ img[alt="seta"]{
     padding: 5%;
     height: 200px;
 }
+
+img[alt="fimg"]{
+    width: 20%;
+}
